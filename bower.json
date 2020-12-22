@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "jquery": "2.2.3",
-    "momentjs": "~2.22.2",
-    "pikaday": "~1.6.1"
+    "momentjs": "~2.29.1",
+    "pikaday": "~1.8.2"
   }
 }

@@ -6,7 +6,7 @@
  * @author: Francesco Novy 
  * @licence: MIT <http://www.opensource.org/licenses/mit-license.php> 
  * @link https://github.com/mydea/PikadayResponsive 
- * @copyright: (c) 2018 
+ * @copyright: (c) 2020 
  * @version: 0.7.0 
  */ 
 

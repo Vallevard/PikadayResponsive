@@ -1,6 +1,7 @@
 module.exports = function(grunt) {
 
   // 1. All configuration goes here
+  // grunt.log.writeln(grunt.config("pkg.name"));
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     banner: '\n /* \n * PikadayResponsive \n * A responsive datepicker built on top of Pikaday. It shows the native datepicker on mobile devices and a nice JS-picker on desktop. \n * \n * @author: Francesco Novy \n * @licence: MIT <http://www.opensource.org/licenses/mit-license.php> \n * @link https://github.com/mydea/PikadayResponsive \n * @copyright: (c) <%= grunt.template.today("yyyy") %> \n * @version: <%= pkg.version %> \n */ \n\n',
